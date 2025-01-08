@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Md. Ekramul Hoq</h1>
+<h1 align="left">Md. Ekramul Hoque</h1>
 
 ###
 
