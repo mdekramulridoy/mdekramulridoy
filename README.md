@@ -20,7 +20,7 @@
 
 <ul align="left">
   <li>🔍 Exploring <b>Next.js</b> and its ecosystem</li>
-  <li>🌍 Building a tourism website with dynamic features</li>
+  <li>🌍 Building a personal blog website with dynamic features</li>
   <li>🔧 Developing a portfolio website using React.js</li>
 </ul>
 
