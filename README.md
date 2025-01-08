@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="center">Profile Counter(Today)</h4>
+<h4 align="center">Profile Counter</h4>
 
 
 ###
