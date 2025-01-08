@@ -36,7 +36,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
 </div>
 
+
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mdekramulridoy/count.svg?"  />
+</div>
 
 
 <div align="left">
@@ -65,11 +70,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mdekramulridoy/count.svg?"  />
-</div>
 
 ###
 
