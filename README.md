@@ -8,13 +8,13 @@
 
 ###
 
-<h3 align="left">Jr. Web Developer</h3>
+<h3 align="left">Full-Stack Developer</h3>
 
 ###
 
 <h4 align="left">About Me</h4>
 
-<p align="left">Hi, I'm a Junior Web Developer passionate about crafting responsive and user-friendly websites.</p>
+<p align="left">I'm a Full-Stack Developer passionate about crafting responsive, user-friendly websites.</p>
 
 ###
 
