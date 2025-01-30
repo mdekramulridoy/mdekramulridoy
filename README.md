@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/HtX0j0L/Blue-Modern-Personal-Business-Linked-In-Background-Photo-1.jpg"  />
+  <img height="200" src="https://i.ibb.co.com/tMK20dfH/White-and-Black-Simple-Marketing-Linked-In-Banner.jpg"  />
 </div>
 
 ###
