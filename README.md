@@ -69,6 +69,34 @@
   </tr>
 </table>
 
+
+
+
+
+
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mdekramulridoy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Md.Ekramul%20Hoque%20GitHub%20Statistics" alt="Md. Ekramul Hoque GitHub Statistics">
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdekramulridoy&show_icons=true&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" alt="Md. Ekramul Hoque Most Used Languages">
+    </td>
+  </tr>
+</table>
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdekramulridoy&hide_border=true&custom_title=Md.Ekramul%20Hoque's%20Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light" alt="Md. Ekramul Hoque Last 31 Days GitHub Activity Graph">
+    </td>
+  </tr>
+<table>
+
+
+
+
+
 ###
 
 <div align="center">
