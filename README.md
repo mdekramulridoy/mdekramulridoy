@@ -66,9 +66,6 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdekramulridoy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toufiqul Hasan's GitHub Streak Statistics">
     </td>
-    <td>
-      <a href="https://app.daily.dev/mdekramulridoy"><img src="./devcard.png" width="300" alt="Md. Ekramul Hoque Dev Card"/></a>
-    </td>
   </tr>
 </table>
 
