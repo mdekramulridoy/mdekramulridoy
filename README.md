@@ -57,7 +57,37 @@
 
 ###
 
-<h4 align="center">Profile Count (Today)</h4>
+## :chart_with_upwards_trend: Current Statistics
+
+<br>
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdekramulridoy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toufiqul Hasan's GitHub Streak Statistics">
+    </td>
+    <td>
+      <a href="https://app.daily.dev/mdekramulridoy"><img src="./devcard.png" width="300" alt="Md. Ekramul Hoque Dev Card"/></a>
+    </td>
+  </tr>
+</table>
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ekramulridoys-projects&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics" alt="Md. Ekramul Hoque GitHub Statistics">
+    </td>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramulridoys-projects&show_icons=true&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" alt="Md. Ekramul Hoque Most Used Languages">
+    </td>
+  </tr>
+</table>
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekramulridoys-projects&hide_border=true&custom_title=Md. Ekramul%20Hoque's%20Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light" alt="Md. Ekramul Hoque Last 31 Days GitHub Activity Graph">
+    </td>
+  </tr>
+<table>
 
 
 ###
