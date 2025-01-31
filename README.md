@@ -3,10 +3,11 @@
 </div>
 
 ###
+</br>
 
 <h1 align="center">
   <a href="https://github.com/mdekramulridoy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=60&color=016EEA&center=true&vCenter=true&width=900&height=70&lines=Hi%2C%F0%9F%91%8B+I'm+Md. Ekramul+Hoque+%F0%9F%98%8A;I'm+a+Full-Stack+Developer+%F0%9F%92%BB;Feel+free+to+get+in+touch+%F0%9F%93%B1;Nice+to+meet+you+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=60&color=016EEA&center=true&vCenter=true&width=900&height=70&lines=Hi%2C%F0%9F%91%8B+I'm+Md.+Ekramul+Hoque+%F0%9F%98%8A;I'm+a+Full-Stack+Developer+%F0%9F%92%BB;Feel+free+to+get+in+touch+%F0%9F%93%B1;Nice+to+meet+you+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </h1>
 
