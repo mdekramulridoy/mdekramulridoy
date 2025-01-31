@@ -92,7 +92,7 @@
 <p align="center">
   <a target="_blank" href="mailto: ekramul.hoque.ridoy@gmail.com"><img height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a target="_blank" href="https://www.linkedin.com/in/mdekramulhoqueridoy/"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a target="_blank" href="https:https://x.com/mdekramulridoy"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a target="_blank" href="https://x.com/mdekramulridoy"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a target="_blank" href="https://www.facebook.com/mdekramulhoqueridoy/"><img height="30px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a target="_blank" href="https://www.instagram.com/mdekramulhoqueridoy/"><img height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a target="_blank" href="https://t.me/ekramulridoy/"><img height="30px" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
