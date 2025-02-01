@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/tMK20dfH/White-and-Black-Simple-Marketing-Linked-In-Banner.jpg" 
+  <img src="https://i.ibb.co.com/tMK20dfH/White-and-Black-Simple-Marketing-Linked-In-Banner.jpg" 
        alt="GitHub Banner"
        style="width: 100%; max-width: 800px; height: auto;" />
 </div>
