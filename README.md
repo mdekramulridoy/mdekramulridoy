@@ -65,12 +65,9 @@
 
 <table width="100%" align="center">
   <tr>
-    <td>
-<!--       ```md
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mdekramulridoy&theme=default)](https://git.io/streak-stats)
-```
- -->
- ![default](https://i.imgur.com/IaTuYdS.png)  
+    <td align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdekramulridoy)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
