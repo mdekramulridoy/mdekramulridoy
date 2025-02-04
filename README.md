@@ -66,8 +66,10 @@
 <table width="100%" align="center">
   <tr>
     <td align="center">
+      <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mdekramul&type=png" alt="GitHub Streak">
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdekramulridoy)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
