@@ -66,10 +66,10 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      ```md
+<!--       ```md
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mdekramulridoy&theme=default)](https://git.io/streak-stats)
 ```
-
+ -->
  ![default](https://i.imgur.com/IaTuYdS.png)  
     </td>
   </tr>
