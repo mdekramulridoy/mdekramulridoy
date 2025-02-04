@@ -66,7 +66,7 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      ![Md. Ekramul GitHub stats](https://github-readme-stats.vercel.app/api?username=mdekramulridoy&show_icons=true&theme=radical)
+      https://github-readme-stats.vercel.app/api?username=mdekramulridoy&show_icons=true&theme=radical
     </td>
   </tr>
 </table>
