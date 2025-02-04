@@ -61,17 +61,14 @@
 
 ## :chart_with_upwards_trend: Current Statistics
 
-<br>
+<be>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=mdekramulridoy&type=png" alt="GitHub Streak">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=mdekramulridoy&theme=light" alt="Md. Ekramul GitHub Streak" />
+  </a>
+</div>
+
 
 <table width="100%" align="center">
   <tr>
