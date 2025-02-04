@@ -66,7 +66,11 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      https://github-readme-stats.vercel.app/api?username=mdekramulridoy&show_icons=true&theme=radical
+      ```md
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mdekramulridoy&theme=default)](https://git.io/streak-stats)
+```
+
+ ![default](https://i.imgur.com/IaTuYdS.png)  
     </td>
   </tr>
 </table>
