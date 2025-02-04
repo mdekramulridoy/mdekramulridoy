@@ -66,7 +66,7 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdekramulridoy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toufiqul Hasan's GitHub Streak Statistics">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdekramulridoy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Md. Ekramul GitHub Streak Statistics">
     </td>
   </tr>
 </table>
