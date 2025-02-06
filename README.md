@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">Full-Stack Developer(MERN Stack)</h3>
+<h3 align="left">Full-Stack Developer</h3>
 
 ###
 
